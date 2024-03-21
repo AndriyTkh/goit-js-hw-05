@@ -1,4 +1,3 @@
-    author: "Fyodor Dostoevsky",
 "use strict";
 
 const getUserNames = (users) => {
